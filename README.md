@@ -1,6 +1,4 @@
-# Beginner-project
-Beginner project
-通讯管理系统
+# 通讯管理系统
 1.添加通讯录 
 2.显示通讯录
 3.删除通讯录
